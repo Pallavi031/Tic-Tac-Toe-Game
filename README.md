@@ -1,7 +1,7 @@
 <p><b>Tic Tac Toe!</b></p>
 <hr></hr>
 <p>This is the demo Project for the beginner who are learning frontend development.This is a very simple project.</p>
-<p><b>Technology used:</b><hr></hr><br />HTML<br />CSS<br />BOOTSTRAP<br />JAVASCRIPT</p>
+<p><b>Technology used:</b><hr></hr><ul><li>HTML</li><br /><li>CSS</li><br /><li>BOOTSTRAP</li><br /><li>JAVASCRIPT</li></ul>
 <p><b>Usage</b></p>
 <hr></hr>
 <ul>
