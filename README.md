@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1SEHNF7JqwCvGZXV9nzEeA7yTrnnH8Hyv/view">
+
 <p><b>Tic Tac Toe!</b></p>
 <hr></hr>
 <p>This is the demo Project for the beginner who are learning frontend development.This is a very simple project.</p>
