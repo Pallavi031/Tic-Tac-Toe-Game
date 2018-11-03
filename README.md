@@ -1,5 +1,5 @@
 <img src="
-        Tic-Tac-Toe-Game/2018-11-03_13-08-03.gif
+        2018-11-03_13-08-03.gif
       ">
 <p><b>Tic Tac Toe!</b></p>
 <hr></hr>
