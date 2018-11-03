@@ -1,4 +1,4 @@
-<img src="BIN +6.42 MB ezgif.com-video-to-gif.gif">
+<img src="">
 <p><b>Tic Tac Toe!</b></p>
 <hr></hr>
 <p>This is the demo Project for the beginner who are learning frontend development.This is a very simple project.</p>
