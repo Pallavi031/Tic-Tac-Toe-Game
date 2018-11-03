@@ -1,6 +1,4 @@
-<img src="
-        2018-11-03_13-08-03.gif
-      ">
+<img src="![2018-11-03_13-08-03](https://user-images.githubusercontent.com/41961497/47949534-e9fd0200-df6a-11e8-8d20-88eb9814bc4e.gif)">
 <p><b>Tic Tac Toe!</b></p>
 <hr></hr>
 <p>This is the demo Project for the beginner who are learning frontend development.This is a very simple project.</p>
