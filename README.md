@@ -5,7 +5,7 @@
 <hr></hr>
 <p>This is the demo Project for the beginner who are learning frontend development.This is a very simple project.</p>
 <p><b>Technology used:</b><hr></hr><ul><li>HTML</li><br /><li>CSS</li><br /><li>BOOTSTRAP</li><br /><li>JAVASCRIPT</li></ul>
-<p><b>Usage</b></p>
+<p><b>Rules</b></p>
 <hr></hr>
 <ul>
 <li>We have a little button that says restart and all this is it's a table and it's a three by three table.But when you actually click on this You see an X and if you click on another square you get an 0 if you click twice.So it goes x Oh blank.</li><br />
